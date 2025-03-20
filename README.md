@@ -1,4 +1,4 @@
-# CDR_Game
+# Collaboration-Deceit-Robbery-Game-Dec-23
 A terminal text game in Chinese that is an upgrade of the game "The Evolution of Trust". Aside from collaborate and deceive, there is a third option of robbing.
 
         print('||    此游戏灵感来源于“信任的进化”，   ')
